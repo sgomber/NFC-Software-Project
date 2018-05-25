@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.learn2crack.nfc.AdminActivity">
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="176dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="236dp"
+        android:onClick="addProfessorData"
+        android:text="ADD PROFESSOR"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="176dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="144dp"
+        android:onClick="addRoomData"
+        android:text="ADD ROOM"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="176dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="44dp"
+        android:onClick="addStudentData"
+        android:text="ADD STUDENT"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="169dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="336dp"
+        android:onClick="addAdminData"
+        android:text="Add Admin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

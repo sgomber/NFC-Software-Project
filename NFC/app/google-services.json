@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397444785677",
+    "firebase_url": "https://nfcfirebaseproject-213cf.firebaseio.com",
+    "project_id": "nfcfirebaseproject-213cf",
+    "storage_bucket": "nfcfirebaseproject-213cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397444785677:android:00a183eef4ff45c5",
+        "android_client_info": {
+          "package_name": "com.learn2crack.nfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397444785677-54ehal4bfe89uorf3kq324rkm0k1qhdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learn2crack.nfc",
+            "certificate_hash": "d1f62f87aa3c67ca5016c31ded2637cf634c55ab"
+          }
+        },
+        {
+          "client_id": "397444785677-ufem6730o6irgc0f4h3ibpder4clr7dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAumXJuPWrmXHXpJZjoX-M9fQMjp9VCK3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397444785677-ufem6730o6irgc0f4h3ibpder4clr7dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

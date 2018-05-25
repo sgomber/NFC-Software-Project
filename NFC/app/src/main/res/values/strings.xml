@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NFC</string>
+    <string name="message_write_error">Error Writing Message !</string>
+    <string name="message_write_success">Successfully written to Tag !</string>
+    <string name="message_write_progress">Writing to Tag..</string>
+    <string name="message_tag_detected">NFC Tag Detected !</string>
+    <string name="message_read_tag">Read from NFC Tag</string>
+    <string name="message_write_tag">Write to NFC Tag</string>
+    <string name="message_tap_tag">Tap the NFC Tag to your device !</string>
+    <string name="hint_message">Message</string>
+    <string name="Name">Student\'s Name</string>
+    <string name="R_No.">Roll Number</string>
+    <string name="M_id">Mobile ID</string>
+    <string name="Prof_name">Professor\'s Name</string>
+    <string name="p_uname">Username</string>
+    <string name="profpass">Password</string>
+    <string name="room_no">Room No.</string>
+    <string name="row">Rows</string>
+    <string name="col">Columns</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="ent_room">Enter Room no.</string>
+    <string name="stud_Info">Student Info</string>
+</resources>
